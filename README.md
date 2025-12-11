@@ -23,4 +23,18 @@ Functional Dark mode [x]
 Game ratings [x]
 
 
+
+
+![IMG_1331 (1)](https://github.com/user-attachments/assets/6ede7331-7557-4d69-9700-bfcd93dc421e)
+
+
+
+
+
+
+
 Demo Day video https://youtu.be/Q2d7rou9AQ0
+
+
+
+
