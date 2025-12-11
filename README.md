@@ -1,8 +1,10 @@
 # unit-9
 
+<!-- GIF demo: embedded from repo -->
+[![Demo](./downloads/IMG_1331%20%281%29.gif)]
 
-
-
+<!-- Or use the HTML img tag to control size: -->
+<!-- <img src="./downloads/IMG_1331%20%281%29.gif" alt="App demo" width="600" /> -->
 
 User Can -
 Navigate [x]
