@@ -54,6 +54,6 @@ User Stoires We decided to Cut
 - Being able to add friends in app
 - Being able to add profile pics in app
 - Being able to Change app icon 
-- 
+  
 
 
