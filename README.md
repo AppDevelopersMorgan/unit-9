@@ -26,14 +26,18 @@ Change different fonts [x]
 
 
 The follwing giphy current application of build progress
+
+
+
 ![IMG_1331 (1)](https://github.com/user-attachments/assets/6ede7331-7557-4d69-9700-bfcd93dc421e)
 
 
 
 
+Updated Status of the Issues 
 
 
-
+<img width="1433" height="684" alt="Screenshot 2025-12-11 at 9 22 36 pm" src="https://github.com/user-attachments/assets/4f0800b0-af71-4699-9742-15fc777a144a" />
 
 
 
@@ -42,6 +46,14 @@ The follwing giphy current application of build progress
 
 Demo Day video https://youtu.be/Q2d7rou9AQ0
 
-
+User Stoires We decided to Cut 
+- being able to Watch trailer of the game in app
+- being able to buy the game in app
+- Being able to voice chat in app
+- Being able to leave comments under the game in app
+- Being able to add friends in app
+- Being able to add profile pics in app
+- Being able to Change app icon 
+- 
 
 
